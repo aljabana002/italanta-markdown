@@ -35,4 +35,3 @@ list of fruits
   <!--Horizontal lines-->
   ___
   ---
-paramond
